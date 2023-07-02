@@ -15,7 +15,12 @@ In this task you will be working on a todo application made using NuxtJS a SSR f
 
 Follow the following steps to setup this project.
 
-**Note** - This task requires [pnpm](https://pnpm.io/) which is a new tooling similar to npm that you encountered in last task.
+**Note** : 
+- This task requires [pnpm](https://pnpm.io/) which is a new tooling similar to npm that you encountered in last task.
+- In case of any dependency errors while installing using npm, use this command instead
+  ```
+  npm install pnpm --legacy-peer-deps
+  ```
 
 ### Setup this repository
 
