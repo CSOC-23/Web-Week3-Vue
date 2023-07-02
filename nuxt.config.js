@@ -96,6 +96,6 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://todo-app-csoc.herokuapp.com/',
+    baseURL: 'https://todo-api-s7vj.onrender.com/',
   },
 }
